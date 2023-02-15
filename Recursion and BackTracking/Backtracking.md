@@ -36,3 +36,10 @@ Example of Backtracking
     - Hamiltionian Cycles
     - Graph Coloring Problem.
 
+Problem Types:
+    - Decision Problem - check for feasible solution (Yes/No)
+    - Optimisation Problem - find best solution (like graph)
+    - Enumeration Problem - find all solution (burte force)
+        - abc - find out all subset
+
+https://www.youtube.com/watch?v=A80YzvNwqXA
